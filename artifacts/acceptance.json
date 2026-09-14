@@ -1,0 +1,7 @@
+{
+  "split_disjoint": true,
+  "reload_consistent": true,
+  "valid_predictions": true,
+  "test_rows": 620,
+  "selected_model": "ridge_trend"
+}
